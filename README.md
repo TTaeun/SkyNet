@@ -1,1 +1,1 @@
-# SkyNet is Server Project Name
+# SkyNet
